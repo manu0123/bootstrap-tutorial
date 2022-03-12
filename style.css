@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+  font-size: 45px;
+  margin-bottom: 23px;
+}
+.container{
+    cursor: pointer;
+}
+.footer{
+    margin: 85px 361px;
+    padding: 6px 2px;
+}
